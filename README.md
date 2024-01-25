@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pookie
+- 👋 Hi, I’m @alyssa
 - 👀 I’m interested in Web-Based Applications, Website Development and Design, UI/UX Design, Integrated Software Systems, Mobile Applications, Data Analytics Dashboards 
 - 🌱 I’m currently a Y2 Data Science and Analytics Student
 - 💞️ I’m looking to collaborate on hmm not sure I dont have a project in mind
