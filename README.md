@@ -1,12 +1,4 @@
-- 👋 Hi, I’m @alyssa
-- 👀 I’m interested in Web-Based Applications, Website Development and Design, UI/UX Design, Integrated Software Systems, Mobile Applications, Data Analytics Dashboards 
-- 🌱 I’m currently a Y2 Data Science and Analytics Student
-- 💞️ I’m looking to collaborate on hmm not sure I dont have a project in mind
-- 📫 How to reach me ...
-- 😄 Pronouns: pookie
-- ⚡ Fun fact: I am a university student @ NUS
+Collaboratively developed a logistic regression machine learning model with 73% accuracy to predict the influence of customer sentiments on drop-off, analyzed based on a dataset of 5000 entries with binary outcomes
+• Utilized Python sklearn library to implement SMOTE-ENN for data-preprocessing 
+• Conducted feature selection using 3 different methods - correlation-based using an iterative approach to improve model, random forest classifier and K-means 
 
-<!---
-pookiecoder/pookiecoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
